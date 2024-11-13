@@ -67,3 +67,5 @@ coverage-ts/
 # rollup
 **/.rollup.cache
 **/buildMeta
+
+.history
